@@ -12,32 +12,32 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "Enter your api id here.",
+            "description": "26362396",
             "value": "",
             "required": true
         },
         "API_HASH": {
-            "description": "Enter your api hash here.",
-            "value": "",
+            "description": "a6ae8615870c51d03815f6d8ed52837f",
+            "value": "",re
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Enter your bot token here",
+            "description": "7633842844:AAH7mjEk1sJ-Ri2-UM3u08bllHx525hqjp0",
             "value": "",
             "required": true
         },
         "STRING_SESSION": {
-            "description": "Enter your pyrogram v2 string session here @BRANDEDSTRINGSESSION_BOT.",
+            "description": "BQFwyZ4AlBj-lP5FjjZ6Q9xDKsnpwVWE-A9TffNiWoCmJo0nFbjnHeCqIsieZezEcBD-Y_k_0jv5SN2MGTj54xvmq4vvoBSj2FnXw9hbxCeBPYxAW1gCR9DSrEd6MHEJmQrPrCQSbiT7HU0F8shN_0fbkXl2L6ahPEDquhS-hi_VvIdm4AEKGP5FjFIDfWEuAD4BTC2lGvUkB-by-SiPGlHVeNqI-5xA2HtTig3_c-0fvrzjLxc_dsWDmAOuE0HY0n5y4U9qejcAVKDvybxzg4CHNCfLhwDjcx4O6Gy8bRq40mSMpMWZUKUsABOlf1I_2IaecTqmpj21_b7szLUAJeJmT0G8yAAAAAHBhq7SAA",
             "value": "",
             "required": true
         },
         "MONGO_DB_URL": {
-            "description": "Enter your mongodb url here.",
+            "description": "mongodb+srv://rahucreate:rahucreate@cluster0.ohj4boi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "value": "",
             "required": true
         },
         "LOG_GROUP_ID": {
-            "description": "Enter your private log group id here.",
+            "description": "-1002726557492",
             "value": "",
             "required": true
         }
